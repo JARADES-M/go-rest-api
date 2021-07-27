@@ -5,6 +5,7 @@
 ### Environment
 
 [Install goland](https://golang.org/doc/install) _Not required for the Docker way_
+
 [Install Docker](https://docs.docker.com/engine/install/)
 
 > Enter the project folder
@@ -22,6 +23,7 @@ To start the same image again.
 ```bash
 docker start mongo-db
 ```
+Build and run the app
 ```bash
 go build
 ```
